@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rence1006&label=Profile%20views&color=0e75b6&style=flat" alt="rence1006" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rence1006" alt="rence1006" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 📝 I am more active on [https://www.facebook.com/rence.busca.7](https://www.facebook.com/rence.busca.7)
