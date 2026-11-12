@@ -1,7 +1,5 @@
 <h3 align="center">A Bachelor of Science in Computer Science student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rence1006&label=Profile%20views&color=0e75b6&style=flat" alt="rence1006" /> </p>
-
 - 🌱 I’m currently learning **Machine Learning and Cyber Security**
 
 - ⚡ Fun fact **I am on the leaderboards in ML and Codm before**
